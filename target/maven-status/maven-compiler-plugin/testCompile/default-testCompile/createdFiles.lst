@@ -1,0 +1,12 @@
+com\solent\katatondeuse\model\TondeuseTest.class
+com\solent\katatondeuse\model\DirectionTest.class
+com\solent\katatondeuse\model\PositionTest.class
+com\solent\katatondeuse\controller\movement\MovementAheadTest.class
+com\solent\katatondeuse\parser\FileInputParserTest.class
+com\solent\katatondeuse\view\ConsolePelouseViewTest.class
+com\solent\katatondeuse\controller\TonteTondeuseControllerTest.class
+com\solent\katatondeuse\controller\movement\MovementRightTest.class
+com\solent\katatondeuse\model\OrientationTest.class
+com\solent\katatondeuse\model\PelouseTest.class
+com\solent\katatondeuse\controller\TontePelouseControllerTest.class
+com\solent\katatondeuse\controller\movement\MovementLeftTest.class
