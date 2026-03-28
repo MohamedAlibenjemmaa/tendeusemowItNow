@@ -7,7 +7,7 @@ dans cette version on a utilisé Java21
 Mohamed Ali Ben Jemaa
 ## Setup
 clone 
-https://github.com/template-repository/template-repository.git  
+https://github.com/MohamedAlibenjemmaa/tendeusemowItNow.git
 cd template-repository  
 ## Running the Application
 mvn clean install  
